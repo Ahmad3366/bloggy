@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party !",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid perferendis delectus cum sapiente! Hic laborum, debitis consequuntur eius atque commodi eos ex ipsam placeat facere fuga voluptate dolorem. Eum, aspernaturLorem ipsum dolor sit amet consectetur adipisicing elit. Odio harum dolorem cum magnam ipsa tempore dolores, autem voluptate voluptatum quo distinctio impedit delectus eos, iste accusamus, eveniet libero asperiores maxime.",
+      "author": "Ali",
+      "id": 1
+    },
+    {
+      "title": "Web dev pro tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid perferendis delectus cum sapiente! Hic laborum, debitis consequuntur eius atque commodi eos ex ipsam placeat facere fuga voluptate dolorem. Eum, aspernaturLorem ipsum dolor sit amet consectetur adipisicing elit. Odio harum dolorem cum magnam ipsa tempore dolores, autem voluptate voluptatum quo distinctio impedit delectus eos, iste accusamus, eveniet libero asperiores maxime.",
+      "author": "Khalid",
+      "id": 2
+    },
+    {
+      "title": "HI",
+      "body": "HIIIIII, IT'S MEEEEEEEEEEEEEEEE MARIO !!!!!!!!!!!!!!!!!",
+      "author": "Mario",
+      "id": 3
+    }
+  ]
+}
